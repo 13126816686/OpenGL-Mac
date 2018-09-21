@@ -53,6 +53,9 @@
 		1C7414262026EE1600E99961 /* GLTools.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GLTools.h; sourceTree = "<group>"; };
 		1C7414272026EE2100E99961 /* libGLTools.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libGLTools.a; sourceTree = "<group>"; };
 		1C7414292026EE8B00E99961 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		4759E4CF215476B4006D32AF /* HXGLGlobal.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HXGLGlobal.h; sourceTree = "<group>"; };
+		4759E4D0215479FA006D32AF /* LineGraph.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LineGraph.h; sourceTree = "<group>"; };
+		47C0088D215485D6001A23AD /* BarGraph.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BarGraph.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +107,9 @@
 				1C7413F72026EA8D00E99961 /* Info.plist */,
 				1C7413FA2026EA8D00E99961 /* GLMac.entitlements */,
 				1C7414292026EE8B00E99961 /* main.cpp */,
+				4759E4CF215476B4006D32AF /* HXGLGlobal.h */,
+				4759E4D0215479FA006D32AF /* LineGraph.h */,
+				47C0088D215485D6001A23AD /* BarGraph.h */,
 			);
 			path = GLMac;
 			sourceTree = "<group>";
